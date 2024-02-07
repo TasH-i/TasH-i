@@ -29,5 +29,5 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasH-i&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
-<h3 align="center">Support:</h3>
+<h3 align="left">Support:</h3>
 <p ><a href="https://ko-fi.com/Ko-fi"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" /></a></p><br><br>
